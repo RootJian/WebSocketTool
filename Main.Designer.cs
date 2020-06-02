@@ -255,6 +255,7 @@
             // 
             // linkLabel1
             // 
+            this.linkLabel1.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             resources.ApplyResources(this.linkLabel1, "linkLabel1");
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.TabStop = true;
